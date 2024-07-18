@@ -1,7 +1,7 @@
 {
 	"name": "server",
 	"version": "1.0.0",
-	"description": "Backend for BeatBox Music",
+	"description": "Backend for RippleTone Music",
 	"main": "index.js",
 	"type": "module",
 	"scripts": {

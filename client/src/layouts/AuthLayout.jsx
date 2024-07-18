@@ -28,7 +28,7 @@ const AuthLayout = () => {
 						fontWeight="semibold"
 						color="gray.200"
 						fontSize={{ base: "lg", md: "2xl" }}>
-						BeatBox
+						RippleTone
 					</Heading>
 				</Flex>
 			</Flex>
